@@ -16,6 +16,12 @@ This repo should be used to do some basic L&D around DevOps activities.
 **Hints**
 To complete this you will need to configure Git global options on your computer and you may need to research some Git commands like git clone, git status, git merge, git stash, git pull, git checkout, git branch, git add, git commit, git push...
 
+*Remember*, the fundamental idea is to version control the master branch and so the basic workflow is to:
+a) create a branch either at the repo or after cloning
+b) do all necessary updates to the branch
+c) push the branch back up to the repo
+d) Create a 'Pull Request' so others can review your updates and if approved approve the PR so your branch is merged to the master.
+
 [See this Git guide](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 
 
