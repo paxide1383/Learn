@@ -68,3 +68,7 @@ If all went well, you now have a new base image called **my_new_alpine_image** t
 
 Step 6 has two extra option included. The `-v "$PWD":/myscript` maps your present working directory (i.e. the Ex2_Docker directory) and makes it available as a directory mounted inside the running container named as */myscript*. This is useful for making data avaialble to your docker container. <br>
 The `-w /myscript` then just tells the container that's spinning up to use */myscript* as its present working directory. There are a lot of configurable options when running docker containers including options to specify and join networks, CPU, expose ports to the host etc.
+
+To explore Docker further checkout these links:
+* [Beginners Guide to Docker](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
+* [Basic Course on Docker](https://www.freecodecamp.org/news/docker-devops-course/)
