@@ -25,6 +25,6 @@ To complete this you will need to configure Git global options on your computer 
 [See this Git guide](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 
 
+Understanding version control and associated tools like Git is a fundamental of running in a known STATE and being able to return to that state if changes are made. It's worthwhile setting up a daily workflow that builds good behaviours towards doing this habitually.
 
-
-*Git repository Url: https://github.com/paxide1383/learning"
+### When you're ready, move on to [Exercise 2 on Docker in this guide](https://github.com/paxide1383/Learn/blob/master/Ex2_Docker/README.md)
