@@ -7,7 +7,7 @@ Please feel free to contribute to this by adding new exercises, links to good qu
 ### What You Will Need
 * A discardable github account (e.g. one using a discardable email maybe) that you can delete when you're done with these exercises.
 * A personal computer able to run Bash e.g. a Linux distro like Ubuntu, a Mac or a modern version of Windows that can run a Linux VM, WSL or Docker.
-* **git** installed on that computer (on ubuntu this is `apt install git`, **be sure to update your git config username and email with the git hub account you created above**)
+* **git** installed on that computer (on ubuntu this is `apt install git`), **be sure to update your git config username and email with the git hub account you created above**)
 
 #### Exercise 1
 1. From your Bash terminal clone this repo to your local machine. Cloning using the [https link](https://github.com/paxide1383/Learn.git) means you won't have to setup an SSH key, but will require you to enter username and password for pushes (which is preferable here).<br>
