@@ -1,4 +1,4 @@
-### Exercise 2 - Docker
+### Exercise 2 - Docker Basics
 
 Docker is used for running containers. Once Docker is installed containers can be quickly created using Bash commands or using build files (named Dockerfiles).
 
