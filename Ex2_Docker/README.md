@@ -9,7 +9,7 @@ Docker is used for running containers. Once Docker is installed containers can b
 
 **nb Docker always requires elevation so needs to be run with sudo**
 
-#### Docker Section 1 - Some  Docker Basics
+#### Docker Section A - Some  Docker Basics
 To spin up your first Docker container run the following command: </br>
 `sudo docker run -ti alpine /bin/ash`<br>
 *The options for this command will be discussed in section B*
@@ -30,7 +30,7 @@ The image command is useful for viewing info about the base images. This alpine 
 
 To clear up and remove containers first `exit` the active container you're running (or run `sudo docker kill cont_name` from your host terminal), then run `sudo docker container rm cont_name` and/or `sudo docker image rm image_name`
 
-####  Docker Section 2 - Some More Basics
+####  Docker Section B - Some More Basics
 So what was actually going on when running the command:</br>
 `sudo docker run -ti alpine /bin/ash`<br>
 
