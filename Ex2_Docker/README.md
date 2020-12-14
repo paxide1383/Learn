@@ -63,3 +63,8 @@ If all went well, you now have a new base image called **my_new_alpine_image** t
 4. Type `exit()` to come out of python3 and then `exit` to come out of your container.
 5. From your host terminal `cd` into the folder in this Repo called **Ex2_Docker** (there should be a file called hello_python.py in there).
 5. From within this directory run `sudo docker run -ti --rm -v "$PWD":/myscript -w /myscript my_new_alpine_image './hello_python.py'`
+6. Make a copy of the *hello_python.py* script and make a few changes to it if you want to experiment a little.
+
+
+Step 5 has two extra option included. The `-v "$PWD":/myscript` maps your present working directory (i.e. the Ex2_Docker directory) and makes it available as a directory mounted inside the running container named as */myscript*. This is useful for making data avaialble to your docker container. <br>
+The `-w /myscript` then just tells the container that's spinning up to use */myscript* as its present working directory. There are a lot of configurable options when running docker containers including options to specify and join networks, CPU, expose ports to the host etc.
