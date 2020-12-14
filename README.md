@@ -14,7 +14,7 @@ This repo should be used to do some basic L&D around DevOps activities.
 5. Create a pull request to have your new branch merged to become the master branch.
 
 **Hints**
-To complete this you may need to research some Git commands like git clone, git status, git pull, git checkout, git branch, git add, git commit, git push...
+To complete this you will need to configure Git global options on your computer an yoi may need to research some Git commands like git clone, git status, git merge, git stash, git pull, git checkout, git branch, git add, git commit, git push...
 
 [See this Git guide](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 
