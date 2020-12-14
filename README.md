@@ -1,12 +1,12 @@
-#Welcome to Some Learning and Development
+# Welcome to Some Learning and Development
 
 This repo should be used to do some basic L&D around DevOps activities.
 
-###What You Will Need
+### What You Will Need
 * A discardable github account (e.g. one using a discardable email maybe)
 * A personal computer able to run Bash e.g. a Linux distro like Ubuntu, a Mac or a modern version of Windows that can run a Linux VM, WSL or Docker.
 
-####Exercise 1
+#### Exercise 1
 1. From your Bash terminal clone this repo to your local machine.
 2. Checkout a new branch of that repo
 3. Add a new text file into the directory called E1_Space with a name based on today's date e.g. 13Dec20.txt
@@ -14,6 +14,7 @@ This repo should be used to do some basic L&D around DevOps activities.
 
 **Hints**
 To complete this you may need to research some Git commands like git clone, git status, git pull, git checkout, git branch, git add, git commit, git push...
+
 [See this Git guide](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 
 
