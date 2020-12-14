@@ -3,7 +3,7 @@
 This repo should be used to do some basic L&D around DevOps activities.
 
 ### What You Will Need
-* A discardable github account (e.g. one using a discardable email maybe)
+* A discardable github account (e.g. one using a discardable email maybe) that you can delete when you're done with these exercises.
 * A personal computer able to run Bash e.g. a Linux distro like Ubuntu, a Mac or a modern version of Windows that can run a Linux VM, WSL or Docker.
 
 #### Exercise 1
