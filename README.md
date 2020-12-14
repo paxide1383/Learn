@@ -9,7 +9,7 @@ This repo should be used to do some basic L&D around DevOps activities.
 #### Exercise 1
 1. From your Bash terminal clone this repo to your local machine.
 2. Create and checkout a new branch from the master repo, use the branch naming convention: deploy/username_Ex1
-3. Add a new text file into the directory called E1_Space with a name based on today's date e.g. 13Dec20.txt
+3. Add a new text file into the directory called Ex1_Space with a name based on today's date e.g. 13Dec20.txt
 4. Commit this change to the branch and push the branch back up to GitHub.
 5. Create a pull request to have your new branch merged to become the master branch.
 
