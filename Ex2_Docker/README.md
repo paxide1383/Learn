@@ -1,4 +1,4 @@
-#### Exercise 2 - Some Docker Basics
+#### Exercise 2 - Docker
 
 Docker is used for running containers. Once Docker is installed containers can be quickly created using Bash commands or using build files (named Dockerfiles).
 
@@ -9,7 +9,7 @@ Docker is used for running containers. Once Docker is installed containers can b
 
 **nb Docker always requires elevation so needs to be run with sudo**
 
-##### Docker Section 1 - Basics
+##### Docker Section 1 - Some  Docker Basics
 To spin up your first Docker container run the following command: </br>
 `sudo docker run -ti alpine /bin/ash`<br>
 *The options for this command will be discussed in section B*
