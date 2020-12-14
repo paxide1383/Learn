@@ -20,7 +20,7 @@ To complete this you will need to configure Git global options on your computer 
 1. create a branch either at the repo or after cloning
 2. do all necessary updates to the branch
 3. push the branch back up to the repo
-4. create a 'Pull Request' so others can review your updates and if approved approve the PR so your branch is merged to the master.
+4. create a 'Pull Request' so others can review your updates and approve the PR so your branch is merged to the master or reject it if there are issuess with it.
 
 [See this Git guide](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 
