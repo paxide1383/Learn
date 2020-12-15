@@ -1,5 +1,0 @@
-FROM openjdk
-COPY . ~/Documents/JavaApps/HelloWorld
-WORKDIR ~/Documents/JavaApps/HelloWorld
-RUN javac helloWorld.java
-CMD ["java", "Main"]

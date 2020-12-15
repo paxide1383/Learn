@@ -4,5 +4,4 @@ WORKDIR /myscript
 RUN apk update
 RUN apk add bash
 RUN apk add python3
-#RUN python3 hello_python.py
 CMD ["./hello_python.py"]
