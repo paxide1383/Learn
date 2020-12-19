@@ -1,4 +1,4 @@
-##Exercise 3 Docker Build and Dockerfiles
+## Exercise 3 - Docker Build and Dockerfiles
 
 In this exercise, we use dockerfile and the docker build command to build our docker image from scratch rather than building it up manually by accessing the running container,configuring it and executing the Docker commit commands on it.
 
