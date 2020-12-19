@@ -72,3 +72,5 @@ The `-w /myscript` then just tells the container that's spinning up to use */mys
 To explore Docker further checkout these links:
 * [Beginners Guide to Docker](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
 * [Basic Course on Docker](https://www.freecodecamp.org/news/docker-devops-course/)
+
+## When you're ready, move on to [Exercise 3 on Docker Builds and Dockerfiles in this guide](https://github.com/paxide1383/Learn/blob/master/Ex3_Dockerfiles/README.md)
