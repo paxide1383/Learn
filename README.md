@@ -49,3 +49,4 @@ Here are some topics along with suggested links to learning resources that can b
 * [Openshift Learning Portal](https://learn.openshift.com/) or [RH Getting Started](https://developers.redhat.com/products/openshift/getting-started)
 * [AWS Getting Started](https://aws.amazon.com/getting-started/)
 * [Bamboo](https://confluence.atlassian.com/bamboo/getting-started-with-bamboo-289277283.html)
+* [Vim Cheat Sheet](https://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses/5400978#5400978)
