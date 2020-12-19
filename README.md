@@ -50,3 +50,5 @@ Here are some topics along with suggested links to learning resources that can b
 * [AWS Getting Started](https://aws.amazon.com/getting-started/)
 * [Bamboo](https://confluence.atlassian.com/bamboo/getting-started-with-bamboo-289277283.html)
 * [Vim Cheat Sheet](https://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses/5400978#5400978)
+* [Github Repo full of free programming links and resources](https://denic.hashnode.dev/github-repositories)
+* [Links to free repo resources for practically every subject](https://github.com/ripienaar/free-for-dev#artifact-repos)
