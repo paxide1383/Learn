@@ -39,7 +39,7 @@ In addition, setlling on some particular text editor(s) or IDE is a good idea. T
 Here are some topics along with suggested links to learning resources that can be good diving-off points for learning:
 
 * [Git](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
-* [Docker](https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/) or [this great video](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+* [Docker](https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/) or [this great video](https://www.youtube.com/watch?v=fqMOX6JJhGo). [Docker Cheat Sheet PDF](https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf)
 * [Ansible](https://linuxhint.com/ansible-tutorial-beginners/) or [this getting started](https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html)
 * [Python Tutorials](https://realpython.com/) or [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 * [Prometheus & Grafana](https://prometheus.io/docs/prometheus/latest/getting_started/) or [PromQL Cheat Sheet](https://promlabs.com/promql-cheat-sheet/)
